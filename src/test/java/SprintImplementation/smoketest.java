@@ -14,7 +14,7 @@ import Utilities.coreutil;
 public class smoketest extends coreutil{
 	
 	@Test
-	public void smoketest1_1(){
+	public void baaltest(){
 		
 		openBrowser();
 		goToWebApp();
